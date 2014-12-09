@@ -11,6 +11,7 @@ Create a program that prints a company's organization chart
 
 ### class Person (Person.java)
 - Fields: String for the person's first name and last name, plus an integer field for the Person's age (use proper encapsulation: private fields with get & set methods for each field)
+- Constructor: takes three values and assigns them to first name, last name and age
 - Accessors:
   - getFirstName
   - getLastName
@@ -24,6 +25,7 @@ Create a program that prints a company's organization chart
   - double hourlyWage
   - int hoursWorked
   - String jobTitle
+- Constructor: takes six parameters - first three are used to call superclass constructor with first name, last name and age; last three are used to set hourly wage, hours worked and job title
 - Accessors:
   - getWage(): returns the wage of the employee
   - getHours(): returns the hours of the employee
