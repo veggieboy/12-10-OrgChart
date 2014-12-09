@@ -1,1 +1,1 @@
-// class to represent a manager - inherits Person
+// class to represent a manager - inherits Emplyee
