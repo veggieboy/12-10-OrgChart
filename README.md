@@ -11,9 +11,8 @@ Create a program that prints a company's organization chart
 
 ### class Person (Person.java)
 - Fields: String for the person's first name and last name, plus an integer field for the Person's age (use proper encapsulation: private fields with get & set methods for each field)
-- Constructors:
-  - Default (no parameters): set names = "" (empty string) and age = 0
-  - Second: takes three values and assigns them to first name, last name and age
+- Constructor:
+  - takes three values and assigns them to first name, last name and age
 - Accessors:
   - getFirstName
   - getLastName
@@ -40,41 +39,3 @@ Create a program that prints a company's organization chart
   - setHours(int h): changes the employee's hours to h
   - setJobTitle(String title): changes the employee's job title to title
   - giveRaise(): increases the employee's wage by $1 dollar
-
-  
-OrgChart - Thur 12/11
-==============
-Make changes to class Employee and create classes Manager & Director.
-
-### class Person - NO changes
-
-### MODIFY class Employee that inherits Person
-- Fields
-  - add new field manager of type Manager
-- Accessors:
-  - add getManager to return the String value of manager
-- Mutators:
-  - add setManager(Manager newManager): 
-    - if manager is not null, then remove this employee as a direct report from manager
-    - set manager = newManager and add this employee as a direct report to manager
-    
-### CREATE class Manager that inherits Employee
-- Fields:
-  - add directReports as an ArrayList of type Employee
-  - add String department
-- Accessors:
-  - add getDepartment 
-  - add getDirectReports
-- Mutators:
-  - add addDirectReport(Employee employee): adds employee to directReports
-  - add removeDirectReport(Employee employee): removes employee from directReports
-  - add setDepartment(String dept): set department = dept
-  
-### CREATE class Manger that inherits Manager
-- Fields:
-  - add String division
-- Accessors:
-  - add getDivision 
-- Mutators:
-  - add setDivision
-  
