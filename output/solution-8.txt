@@ -1,0 +1,5 @@
+Manager: Employee: Caeser , Flickerman : Developement Manager @ $113895.6
+	Employee: Peeta , Mellark : SR Developer @ $93256.8
+	Employee: Katniss , Everdeen : JR Developer @ $72618.0
+Manager: Employee: Heavensbee , Plutarch : Developement Manager @ $113895.6
+	Employee: Finnick , Odair : JR Developer @ $72618.0
