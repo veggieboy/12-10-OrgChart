@@ -1,0 +1,5 @@
+magager: Flickerman, Cesar:Announcer@ $291200.0
+	Mellark, Peeta:Contestant@ $305760.0
+	Everdeen, Katniss:Contestant@ $1175720.0
+magager: Heveansbee, Plutarch:Head Gamemaker@ $2.912E8
+	Odair, Finnick:Katniss Rescuer@ $808080.0

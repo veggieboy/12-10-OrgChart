@@ -1,0 +1,12 @@
+1,5c1,5
+< Manager: Flickerman, Caesar: Development Manager @ $114400.0
+< 	Employee: Mellark, Peeta: SR Developer @ $93600.0
+< 	Employee: Everdeen, Katniss: JR Developer @ $72800.0
+< Manager: Heavensbee, Plutarch: Development Manager @ $114400.0
+< 	Employee: Odair, Finnick: JR Developer @ $72800.0
+---
+> magager: Flickerman, Cesar:Announcer@ $291200.0
+> 	Mellark, Peeta:Contestant@ $305760.0
+> 	Everdeen, Katniss:Contestant@ $1175720.0
+> magager: Heveansbee, Plutarch:Head Gamemaker@ $2.912E8
+> 	Odair, Finnick:Katniss Rescuer@ $808080.0
