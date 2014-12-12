@@ -1,0 +1,12 @@
+1,5c1,5
+< Manager: Flickerman, Caesar: Development Manager @ $114400.0
+< 	Employee: Mellark, Peeta: SR Developer @ $93600.0
+< 	Employee: Everdeen, Katniss: JR Developer @ $72800.0
+< Manager: Heavensbee, Plutarch: Development Manager @ $114400.0
+< 	Employee: Odair, Finnick: JR Developer @ $72800.0
+---
+> Manager: Hemmings, Luke :Guitarist/ Lead Singer@ 4.368E7
+> 	Clifford, Micheal :Guitarist@ 1.456E7
+> 	Irwin, Ashton :Drummer@ 2.2932E7
+> Manager: Hood, Calum :Bass Guitarist@ 3.272724E7
+> 	Direction, One :Biggest Boyband in the World@ 4.004E7
