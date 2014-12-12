@@ -1,0 +1,12 @@
+1,5c1,5
+< Manager: Flickerman, Caesar: Development Manager @ $114400.0
+< 	Employee: Mellark, Peeta: SR Developer @ $93600.0
+< 	Employee: Everdeen, Katniss: JR Developer @ $72800.0
+< Manager: Heavensbee, Plutarch: Development Manager @ $114400.0
+< 	Employee: Odair, Finnick: JR Developer @ $72800.0
+---
+> Ron: Doe, Ron :IT manager@ 5200.0
+> 	Bill, Jill :Janitor@ 1040.0
+> 	Johnson, Sammy :Senior Janitor@ 3120.0
+> John: Don, John :Project manager@ 7800.0
+> 	Jill, Bill :Swag Janitor@ 6240.0
